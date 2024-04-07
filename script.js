@@ -1,4 +1,4 @@
-var images = ['BackImage/1.jpg', 'BackImage/2.jpg', 'BackImage/3.jpg'];
+var images = ['Img/BackImage/1.jpg', 'Img/BackImage/2.jpg', 'Img/BackImage/3.jpg'];
 var index = 0;
 
 setInterval(function() {
