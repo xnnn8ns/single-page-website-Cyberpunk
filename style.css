@@ -22,7 +22,7 @@
 
 /* блок хэдера */
 
-.header {
+header {
     width: 100%;
     height: 1000px;
     position: relative;
@@ -30,7 +30,7 @@
     transition: background-image 0.5s ease-in-out;
 }
 
-footer {
+nav {
     display: flex;
     justify-content: space-between;
 }
